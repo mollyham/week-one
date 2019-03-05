@@ -2,11 +2,17 @@
 padding:0;
 width: 20%;
 height:100%;
-position: fixed;
-border-right: 20px solid;
+position: fixed;;
+border-right: 1px solid;
 border-color: gray;
 display: table;
+
    
+}
+#navbar ul{
+  overflow-x: hidden;
+  overflow-y:auto;
+height: 88%;
 }
 #main-body{
     padding: 0;
